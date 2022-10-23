@@ -19,7 +19,7 @@ How to register, some important rules to follow, which repos to contribute and o
 If above link doesn't work watch [here](https://youtu.be/GuZpeobFsZw).
 
 ## Programming Languages 
-This Repository consists of following programming languages
+This Repository consists of following programming languages (Subject to change)
   -  HTML : 58.8%
   -  Python : 12.0%
   -  Java : 13.2% 
